@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nandakumar92
-- 👀 I’m interested in Analytics,Data Engineering and Machine Learning
+- 👀 I’m interested in Analytics, Data Engineering and Machine Learning
 - 🌱 I’m currently learning Apache Spark
 - 💞️ I’m looking to collaborate on Python related projects
 - 📫 How to reach me nandakumar.uday92@gmail.com
