@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nandakumar92
-- 👀 I’m interested in Analytics, Data Engineering and Machine Learning
-- 🌱 I’m currently learning Apache Spark
-- 💞️ I’m looking to collaborate on Python related projects
+- 👀 I’m interested in Analytics, Data Engineering , Cybersecurity And Machine Learning
+- 🌱 I’m currently learning Churn Modeling
+- 💞️ I’m looking to collaborate on engineering related projects
 - 📫 How to reach me nandakumar.uday92@gmail.com
 
 <!---
