@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandakumar92
 - 👀 I’m interested in Analytics, Data Engineering, AI and Machine Learning 
-- 🌱 I’m currently learning scientific python packages and machine learning.
+- 🌱 I’m currently learning c++, real time systems .
 - 💞️ I’m looking to collaborate on data and machine learning engineering related projects
 - 📫 How to reach me nandakumar.uday92@gmail.com
 
