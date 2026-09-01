@@ -6,10 +6,9 @@ I'm a Data Engineer interested in **software engineering, systems, real-time dat
 
 * **Modern C++ & systems programming**
 * **Real-time systems & low-latency engineering**
-* **Python 3 & backend engineering**
+* **backend engineering**
 * **Kafka & distributed data systems**
 * **CUDA & GPU programming**
-* **Cloud infrastructure with AWS, Docker & Kubernetes**
 
 ### 🔨 Building
 
