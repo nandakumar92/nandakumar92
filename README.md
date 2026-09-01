@@ -10,15 +10,11 @@ I'm a Data Engineer interested in **software engineering, systems, real-time dat
 * **Kafka & distributed data systems**
 * **CUDA & GPU programming**
 
-### 🔨 Building
-
-I'm working on projects that combine **C++, real-time data processing, distributed systems, market-data concepts, and GPU computing**.
-
 ### 💡 Interests
 
 * Systems & software engineering
 * Real-time / low-latency systems
-* Market data & financial technology
+* Market data & financial technology, HFT
 * AI / ML infrastructure
 * GPU computing & CUDA
 * Distributed data systems
