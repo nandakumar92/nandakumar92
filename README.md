@@ -1,8 +1,38 @@
-- 👋 Hi, I’m @nandakumar92
-- 👀 I’m interested in Analytics, Data Engineering, AI and Machine Learning 
-- 🌱 I’m currently learning c++, real time systems .
-- 💞️ I’m looking to collaborate on data and machine learning engineering related projects
-- 📫 How to reach me nandakumar.uday92@gmail.com
+# 👋 Hi, I'm Nandakumar
+
+I'm a Data Engineer interested in **software engineering, systems, real-time data processing, AI infrastructure, and high-performance computing**.
+
+### 🌱 Currently learning
+
+* **Modern C++ & systems programming**
+* **Real-time systems & low-latency engineering**
+* **Python 3 & backend engineering**
+* **Kafka & distributed data systems**
+* **CUDA & GPU programming**
+* **Cloud infrastructure with AWS, Docker & Kubernetes**
+
+### 🔨 Building
+
+I'm working on projects that combine **C++, real-time data processing, distributed systems, market-data concepts, and GPU computing**.
+
+### 💡 Interests
+
+* Systems & software engineering
+* Real-time / low-latency systems
+* Market data & financial technology
+* AI / ML infrastructure
+* GPU computing & CUDA
+* Distributed data systems
+* Data engineering
+
+### 🤝 Collaboration
+
+I'm interested in collaborating on **systems, data engineering, AI infrastructure, and performance-oriented engineering projects**.
+
+### 📫 Contact
+
+**[nandakumar.uday92@gmail.com](mailto:nandakumar.uday92@gmail.com)**
+
 
 <!---
 nandakumar92/nandakumar92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
